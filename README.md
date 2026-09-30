@@ -48,6 +48,7 @@ A Python automation tool that converts lecture notes into flashcards with a scie
 - Deepening my React skills with TypeScript and Next.js
 - Expanding backend architectures with PostgreSQL and async workers
 - Practicing clean software architecture and automated test-driven development (TDD)
+- Machine learning / Ai
 
 ---
 
